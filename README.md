@@ -1,0 +1,2 @@
+# Database-Analysis-of-Vehicle-and-Home-Claims
+Vehicles and Home Claims are a major part of the insurance business. With the growth of accidents and natural calamities, the rise of these claims has surged in the recent times. In a country like United states, Insurance is a part and parcel of everyone’s lives.  We have chosen Analysis of Vehicle and Home Claims as our group project keeping in view of the latest trends in the market. In the insurance domain, we are focusing on the major market cap involving Vehicle and Home claims
